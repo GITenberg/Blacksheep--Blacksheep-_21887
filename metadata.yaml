@@ -1,0 +1,29 @@
+_repo: Blacksheep--Blacksheep-_21887
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Nicholson, Meredith
+    birthdate: 1866
+    deathdate: 1947
+    gutenberg_agent_id: '4371'
+    url: http://www.gutenberg.org/2009/agents/4371
+    wikipedia: http://www.indianahistory.org/library/manuscripts/collection_guides/M0666.html
+description: ''
+gutenberg_issued: '2007-06-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21887'
+  lccn: '20007287'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure stories'
+- !lcc 'PS'
+- !lcsh 'Fiction'
+title: Blacksheep! Blacksheep!
+url: http://www.gutenberg.org/ebooks/21887
